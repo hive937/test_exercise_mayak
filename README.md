@@ -21,7 +21,7 @@
    
 3. Установите все необходимые библиотеки с помощью `pip`. Вы можете установить их, выполнив следующую команду:
 ```
- pip install python-telegram-bot pandas requests lxml python-dotenv
+ pip install -r requirements.txt
 ```
 4. Запустите бота следующей командой:
 ```
