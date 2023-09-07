@@ -28,6 +28,9 @@
 python main.py
 ```
 
+Ссылка на бота: https://t.me/practising_bot
+
+
 Автор: [hive937](https://github.com/hive937)
 
 
