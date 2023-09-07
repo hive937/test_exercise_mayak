@@ -21,13 +21,13 @@
    
 3. Установите все необходимые библиотеки с помощью `pip`. Вы можете установить их, выполнив следующую команду:
 ```
- pip install python-telegram-bot pandas requests lxml sqlite3 concurrent.futures python-dotenv
+ pip install python-telegram-bot pandas requests lxml python-dotenv
 ```
 4. Запустите бота следующей командой:
 ```
 python main.py
 ```
 
-Автор: [hive937]
+Автор: [hive937](https://github.com/hive937)
 
 
